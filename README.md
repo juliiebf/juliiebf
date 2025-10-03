@@ -42,8 +42,7 @@ C programming: data structures, memory management, low-level algorithms.
 
 ## 🤝 Contact
 
-- 📫 [LinkedIn](https://www.linkedin.com/in/your-profile)
-- 📬 Email: your.mail@proton.me
+- 📬 Email: juliebf9178@gmail.com
 
 ---
 
