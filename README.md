@@ -46,9 +46,15 @@ C programming: data structures, memory management, low-level algorithms.
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Insights
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=juliiebf&show_icons=true&theme=radical&hide=issues,contribs)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juliiebf&layout=compact&theme=radical&langs_count=6&hide=html,css)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliiebf&layout=compact&theme=radical&langs_count=6&hide_border=false&border_radius=10" height="165">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=juliiebf&theme=radical&hide_border=false&border_radius=10" height="165">
+</p>
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=juliiebf&theme=radical" height="150">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=juliiebf&theme=radical" height="150">
+</p>
 
