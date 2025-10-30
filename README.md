@@ -46,13 +46,8 @@ C programming: data structures, memory management, low-level algorithms.
 
 ---
 
-## 📊 GitHub Insights
+## 📈 Stats Overview
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=juliiebf&show_icons=true&theme=tokyonight&count_private=true" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliiebf&layout=compact&theme=tokyonight&langs_count=6&hide=html,css" height="165">
-</p>
-
-💡 *Python is my main focus, but I also enjoy building efficient systems in C and exploring web technologies.*
-
+![Stats](https://github-readme-stats.vercel.app/api?username=juliiebf&show_icons=true&theme=github_dark)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=juliiebf&theme=github_dark&layout=donut)
 
