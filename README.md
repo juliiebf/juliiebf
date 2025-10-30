@@ -46,8 +46,9 @@ C programming: data structures, memory management, low-level algorithms.
 
 ---
 
-## 📈 Stats Overview
+## 📈 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=juliiebf&show_icons=true&theme=github_dark)
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=juliiebf&theme=github_dark&layout=donut)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=juliiebf&show_icons=true&theme=radical&hide=issues,contribs)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juliiebf&layout=compact&theme=radical&langs_count=6&hide=html,css)
+
 
