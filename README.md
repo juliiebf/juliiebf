@@ -9,7 +9,7 @@ Open to collaboration in web, backend, and data fields.**
 
 ## 🚩 Main Projects
 
-[![HBnB Project](https://img.shields.io/badge/HBnB%20Project-%F0%9F%8F%A1-orange?logo=python&logoColor=white&style=for-the-badge)](https://github.com/juliiebf/holbertonschool-AirBnB_clone_v4)  
+[![HBnB Project]([https://img.shields.io/badge/HBnB%20Project-%F0%9F%8F%A1-orange?logo=python&logoColor=white&style=for-the-badge)](https://github.com/juliiebf/holbertonschool-AirBnB_clone_v4](https://github.com/juliiebf/holbertonschool-hbnb))  
 Airbnb-inspired web application built with Python, Flask, REST API, authentication, and database integration.
 
 [![Simple Shell](https://img.shields.io/badge/Simple%20Shell-C-blue?logo=c&logoColor=white)](https://github.com/juliiebf/simple_shell)  
